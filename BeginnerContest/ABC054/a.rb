@@ -7,6 +7,6 @@ elsif b == 1
   puts "Bob"
 elsif a > b
   puts "Alice"
-elsif b < a
+elsif b > a
   puts "Bob"
 end
